@@ -1,14 +1,3 @@
-﻿/****************************************************************************
-**					      SAKARYA ÜNİVERSİTESİ
-**			     BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				       NESNEYE DAYALI PROGRAMLAMA DERSİ
-**	
-**				ÖDEV NUMARASI....: PROJE
-**				ÖĞRENCİ ADI......: TEA SHKURTİ
-**				ÖĞRENCİ NUMARASI.: B191210555
-**				DERS GRUBU.......: 1C
-****************************************************************************/
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
