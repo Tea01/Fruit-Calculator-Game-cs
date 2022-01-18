@@ -1,1 +1,2 @@
-# Fruit-Calculator-cs
+# Fruit Calculator C#
+In this project by using Methods, Classes, private and public fields and Interface I creates a fruit calculator. The gmae strats when the user clicks on the start button and he has 60 seconds to finish the game. By random a picture of a fruit shows up and the user has to find if that fruit has to go to a citrus juicer or into a juice extractor. For every fruit the user gets by random the data for that fruit, example: vitamin A, vitamin C, how many gram the fruit is and how much puree and liquid is gained from that fruit.
